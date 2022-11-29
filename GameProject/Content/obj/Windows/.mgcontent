@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Francis Garlejo.LAPTOP-STMUK3PK/Documents/Current_Courses/PROG2370 - Game Prog Data Structures/game_project/GameProject/GameProject/Content/img/ballon.png</File>
+    <File>C:/Users/Francis Garlejo.LAPTOP-STMUK3PK/Documents/Current_Courses/PROG2370 - Game Prog Data Structures/game_project/GameProject/GameProject/Content/img/bomb.png</File>
+    <File>C:/Users/Francis Garlejo.LAPTOP-STMUK3PK/Documents/Current_Courses/PROG2370 - Game Prog Data Structures/game_project/GameProject/GameProject/Content/img/gamechar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
